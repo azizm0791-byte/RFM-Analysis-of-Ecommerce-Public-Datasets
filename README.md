@@ -29,4 +29,4 @@ streamlit run dashboard.py
 
 ## URL Dashboard
 
-https://ecommerce-analysis-performance.streamlit.app/
+https://rfm-analysis-of-ecommerce-public-datasets.streamlit.app/
