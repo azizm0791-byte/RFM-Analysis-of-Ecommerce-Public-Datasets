@@ -8,7 +8,7 @@ import streamlit as st
 sns.set_theme(style="whitegrid")
 st.set_page_config(page_title="Brazilian E-Commerce Dashboard", layout="wide")
 
-DATA_PATH = Path(__file__).with_name("main_data.csv")
+DATA_PATH = Path(__file__).with_name("main_data.zip")
 SEGMENT_ORDER = ["Champions", "Loyal Customers", "Potential Loyalists", "At Risk", "Lost"]
 SEGMENT_COLORS = ["#1565C0", "#2E7D32", "#F57F17", "#C62828", "#6A1B9A"]
 
